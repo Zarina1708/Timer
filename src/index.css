@@ -1,0 +1,31 @@
+html{
+  background-color:#000
+}
+
+.app{
+  width:100%;
+  float:left;
+  margin:100px auto;
+  position: relative;
+}
+
+.timer{
+  font:72px Courier;
+  color:#fff;
+  text-align:center
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+button{
+  font:40px Courier;
+  font-family:'DM Sans';
+  text-align:center;
+  margin-left: 10px;
+  margin-right: 10px; 
+}
